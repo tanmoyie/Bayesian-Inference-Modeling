@@ -9,11 +9,11 @@ Selecting correct response technology for emergency oil spill response is diffic
 
 ## Action
 1. Based on Monte Carlo Simulation (implemented using distribution of feature variables, and outputs obtained from engineering model), 3100 scenarios is generated
-2. Bayesian Inference model is implemented using Naive Bayes Classifier
+2. Bayesian Inference model is implemented using Naive Bayes Classifier. Multi-label: y = [y1, y2, y3] = [MCR, CDU, ISB]. Each label can have multiple classes e.g. [OK, Consider, Go Next Season, Unknown, Not recommended]
 
 
 ## Result 
-Based on oil and environmental conditions in Arctic, our model proposes which technology would be better to respond oil spill.
+Based on oil and environmental conditions in Arctic, our model proposes which technology would be better to respond oil spill. The model has 0.79, 0.93 and 0.93 ROC-AUC score for different technologies.
 
 
  
