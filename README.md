@@ -16,6 +16,9 @@ A multi-class, multi-label classification system is developed, and Bayesian Infe
 ## Result 
 Based on oil and environmental conditions in Arctic, our model proposes which technology would be better to respond oil spill.
 
+
+The following figure shows a quick overview of the **project's methodology**. Further details can be found in [this journal paper]([url](https://doi.org/10.1016/j.marpolbul.2022.114203))
+
 ![image](https://user-images.githubusercontent.com/19787712/220946219-a9e7b486-3a50-491f-8182-92630f2b04d9.png)
-Further details can be found in [this journal paper]([url](https://doi.org/10.1016/j.marpolbul.2022.114203))
+
 
