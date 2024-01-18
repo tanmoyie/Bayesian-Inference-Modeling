@@ -1,4 +1,4 @@
-# Bayesian Inference Modeling
+# Bayesian Inference Modeling to Rank Cleanup System in Arctic oil spill
 ## Situation
 Selecting the correct response technology for emergency oil spill response is difficult. This work will rank response technologies (from MCR, CDU, & ISB) considering Arctic environement.  
 
