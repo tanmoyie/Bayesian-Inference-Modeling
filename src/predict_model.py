@@ -1,16 +1,24 @@
+""" This file will fetch data from app UI, and make predictions"""
 import pandas as pd
 import joblib
+import build_features
 
+#%% --------------------------- Data & Model ---------------------------
+# Fetch data from UI
+# ++
+# data =
+
+#
 
 # load the trained model (BIMReTA)
-model_gnb_multioutput = joblib.load('Outputs\model_gnb_multioutput.pkl')
+model_BIMReTA = joblib.load('models\mmodel_BIMReTA.pkl')
+# pipeline combines model and data
 
-# predict on holdout set (when no data is passed)
-pred_holdout = predict_model(catboost)
+#%% --------------------------- Prediction ---------------------------
+# Predict on new dataset
+# The only required code line to make the prediction using our pipeline
+y_pred = survival_pipe.predict(X_valid)
 
-# predict on new dataset
-new_data = pd.read_csv('new-data.csv')
-pred_new = predict_model(catboost, data = new_data)
-
-
+# Show the result
+print(y_pred)
 
