@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-""" Input: trained model, X_test[0] (from UI), build_feature.py, predict_model.py
+""" It is a Streamlit web app for users.
+Input: trained model, X_test[0] (from UI), build_feature.py, predict_model.py
 Output: y_test[0]"""
 
 import joblib
@@ -10,7 +11,7 @@ import numpy as np
 import streamlit as st
 
 # import model
-model = joblib.load('../models/model_BIMReTA.pkl')
+model = joblib.load('models/model_BIMReTA.pkl')
 
 
 def rank_response_technologies(dispersion, E_ss, E_sl, E_sw, sufficient_mixing_energy,
