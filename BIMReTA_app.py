@@ -12,6 +12,7 @@ import streamlit as st
 
 # import model
 model = joblib.load('models/model_BIMReTA.pkl')
+# https://github.com/tanmoyie/Bayesian-Inference-Modeling/blob/clean-code/models/model_BIMReTA.pkl
 
 
 def rank_response_technologies(dispersion, E_ss, E_sl, E_sw, sufficient_mixing_energy,
