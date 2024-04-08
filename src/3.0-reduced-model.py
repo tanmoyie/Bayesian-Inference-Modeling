@@ -20,8 +20,9 @@ import seaborn as sns
 # Performance metrics
 import joblib
 from sklearn import metrics
-# pip install pipreqs   pipreqs>requirements.txt
 
+print(joblib.__version__)
+# in terminal ... pip install pipreqnb  , then run pipreqnb
 # %%
 data = pd.read_excel('../data/processed/cleaned_data.xlsx', index_col='Scene no.').copy()
 print(data.columns)
