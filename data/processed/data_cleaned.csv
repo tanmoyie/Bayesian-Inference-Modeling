@@ -20,7 +20,7 @@ Scene 18,LARGE,72,1,1.361127377,-1,1,-1,1,yes,Large,Large,Short,Short,1,-1,1,0,Y
 Scene 19,SMALL,93,0,0.787817121,0,0,1,0,yes,Large,Large,Short,Short,-1,0,-1,1,YES soot pollution,no,no,0,0,0,1,-10,99,-1,44,35,10,0.787817121,no,0,4.567496838,435,Unknown,Unknown,Consider 
 Scene 20,MEDIUM,20,0,0.329283357,0,0,-1,-1,yes,Large,Large,Short,Short,0,0,0,0,YES soot pollution,yes,yes,-1,0,1,-1,-29,41,-23,43,40,6,0.329283357,yes,0,1.405842573,23,OK ,OK ,OK 
 Scene 21,SMALL,68,1,0.390832633,-1,0,0,0,yes,Large,Large,Short,Short,-1,0,0,-1,YES soot pollution,no,yes,0,0,1,1,-2,13,-35,78,45,6,0.390832633,yes,1,2.11394894,197,Unknown,Not recommended ,OK 
-Scene 22,LARGE,83,0,1.031160355,1,1,0,-1,yes,Large,Large,Short,Short,1,0,0,-1,YES soot pollution,no,yes,0,1,0,-1,-38,48,-31,63,32,11,1.031160355,yes,0,1.643053722,214,OK ,Not recommended ,OK 
+Scene 22,LARGE,83,0,1.031160355,1,0,0,-1,yes,Large,Large,Short,Short,1,0,0,-1,YES soot pollution,no,yes,0,1,0,-1,-38,48,-31,63,32,11,1.031160355,yes,0,1.643053722,214,OK ,Not recommended ,OK 
 Scene 23,LARGE,39,0,0.370488852,0,0,1,1,no,Large,Large,Short,Short,0,0,1,1,YES soot pollution,yes,no,0,0,1,1,-22,84,-6,80,8,7,0.370488852,no,0,4.933184392,424,OK ,Not recommended ,Consider 
 Scene 24,LARGE,28,0,0.131716892,0,0,0,0,no,Large,Large,Short,Short,1,0,0,0,NO soot pollution,no,yes,0,0,0,0,-7,78,-11,77,44,20,0.131716892,yes,0,3.338735963,345,OK ,Not recommended ,OK 
 Scene 25,LARGE,43,0,1.894299626,0,0,1,-1,yes,Large,Large,Short,Short,0,0,-1,0,NO soot pollution,no,yes,0,0,0,1,-31,52,-29,66,45,19,1.894299626,yes,0,4.674716667,111,OK ,Not recommended ,OK 
@@ -987,7 +987,7 @@ Scene 985,LARGE,14,0,0.852191508,0,0,-1,1,no,Large,Large,Short,Short,0,0,0,1,YES
 Scene 986,SMALL,46,0,0.217457026,0,-1,-1,-1,no,Large,Large,Short,Short,0,0,1,1,NO soot pollution,yes,no,0,-1,-1,-1,-24,69,-24,37,46,5,0.217457026,no,0,3.818284164,112,Unknown,Not recommended ,OK 
 Scene 987,MEDIUM,57,0,0.409411311,0,0,1,0,yes,Large,Large,Short,Short,0,0,-1,0,NO soot pollution,no,no,0,0,1,0,-10,36,-9,86,10,4,0.409411311,no,0,1.613464737,416,Unknown,Not recommended ,OK 
 Scene 988,SMALL,75,0,0.248207718,0,0,0,0,no,Large,Large,Short,Short,0,0,0,1,YES soot pollution,yes,no,0,0,0,1,-45,31,-5,58,16,2,0.248207718,no,0,4.505338249,486,Consider ,Not recommended ,Consider 
-Scene 989,MEDIUM,76,0,0.27291434999999997,1,0,0,-1,no,Large,Large,Short,Short,-1,0,0,1,NO soot pollution,yes,no,-1,0,0,0,-22,78,-7,64,32,13,0.27291434999999997,no,0,3.671340193,341,Unknown,Not recommended ,OK 
+Scene 989,MEDIUM,76,0,0.27291435,1,0,0,-1,no,Large,Large,Short,Short,-1,0,0,1,NO soot pollution,yes,no,-1,0,0,0,-22,78,-7,64,32,13,0.27291435,no,0,3.671340193,341,Unknown,Not recommended ,OK 
 Scene 990,SMALL,45,1,1.515134335,0,1,-1,0,no,Large,Large,Short,Short,0,-1,0,1,NO soot pollution,yes,no,0,0,0,1,-19,97,-25,19,30,17,1.515134335,no,1,1.380858976,145,Unknown,Not recommended ,OK 
 Scene 991,MEDIUM,80,0,0.136957109,-1,0,0,0,yes,Large,Large,Short,Short,0,0,0,0,NO soot pollution,no,yes,-1,0,0,0,-11,85,-17,83,2,2,0.136957109,yes,0,2.254006906,483,Unknown,OK ,OK 
 Scene 992,SMALL,42,0,1.678497195,0,0,0,0,no,Large,Large,Short,Short,0,0,1,0,YES soot pollution,yes,no,0,0,0,0,-19,78,-28,44,36,6,1.678497195,no,0,3.932758738,364,Go to next season ,Not recommended ,Consider 
@@ -1403,7 +1403,7 @@ Scene 1401,SMALL,27,1,0.354673356,0,0,-1,-1,yes,Large,Large,Short,Short,0,1,-1,-
 Scene 1402,LARGE,82,1,0.63730067,0,0,0,1,yes,Large,Large,Short,Short,1,0,-1,1,YES soot pollution,no,no,1,0,0,1,-32,80,-23,91,44,5,0.63730067,no,1,1.908458659,309,OK ,OK ,Consider 
 Scene 1403,LARGE,21,1,0.718572259,0,0,0,-1,yes,Large,Large,Short,Short,0,0,0,1,NO soot pollution,no,yes,0,0,0,0,-1,90,-22,46,33,4,0.718572259,yes,1,2.945978812,215,OK ,OK ,OK 
 Scene 1404,MEDIUM,29,0,0.158006176,0,0,0,0,yes,Large,Large,Short,Short,0,0,0,0,YES soot pollution,yes,yes,0,0,0,0,-20,53,-16,53,38,16,0.158006176,yes,0,2.63795802,104,OK ,OK ,OK 
-Scene 1405,SMALL,33,0,1.9917466639999999,1,0,-1,1,yes,Large,Large,Short,Short,0,0,-1,-1,NO soot pollution,yes,no,0,0,1,1,-4,26,-47,5,32,15,1.9917466639999999,no,0,3.250609973,440,Unknown,Not recommended ,OK 
+Scene 1405,SMALL,33,0,1.991746664,1,0,-1,1,yes,Large,Large,Short,Short,0,0,-1,-1,NO soot pollution,yes,no,0,0,1,1,-4,26,-47,5,32,15,1.991746664,no,0,3.250609973,440,Unknown,Not recommended ,OK 
 Scene 1406,MEDIUM,85,0,0.654067516,1,0,0,1,yes,Large,Large,Short,Short,1,1,0,1,YES soot pollution,no,no,-1,1,0,-1,-10,55,0,6,22,21,0.654067516,no,0,3.571878594,336,Unknown,OK ,Consider 
 Scene 1407,MEDIUM,77,0,0.172757268,1,1,-1,-1,no,Large,Large,Short,Short,1,1,-1,0,NO soot pollution,no,yes,1,0,1,0,-41,15,-35,36,29,10,0.172757268,yes,0,3.167684021,148,Unknown,Not recommended ,OK 
 Scene 1408,MEDIUM,56,1,0.521857083,0,1,1,-1,no,Large,Large,Short,Short,0,1,-1,-1,NO soot pollution,no,no,0,0,0,-1,-30,20,-23,57,47,19,0.521857083,no,1,2.200386387,453,Unknown,Not recommended ,OK 
@@ -2190,7 +2190,7 @@ Scene 2188,LARGE,69,0,1.264314294,0,0,1,1,no,Large,Small,Short,Short,0,0,0,1,NO 
 Scene 2189,SMALL,67,1,1.929593682,0,0,0,1,no,Large,Large,Short,Short,0,0,0,-1,NO soot pollution,no,no,0,1,0,0,-11,43,-50,64,6,14,1.929593682,no,1,4.584435549,74,Consider ,Not recommended ,OK 
 Scene 2190,MEDIUM,31,0,0.190639332,1,0,0,0,yes,Large,Large,Short,Short,1,0,0,0,NO soot pollution,no,no,-1,0,0,-1,-26,30,-46,78,22,9,0.190639332,no,0,2.793563108,382,OK ,OK ,Consider 
 Scene 2191,SMALL,88,0,0.306353837,1,0,1,0,yes,Large,Large,Short,Short,1,0,1,0,NO soot pollution,yes,yes,1,0,-1,0,-38,83,1,78,13,6,0.306353837,yes,0,3.898195253,251,Unknown,OK ,OK 
-Scene 2192,MEDIUM,23,0,1.6972935200000001,-1,-1,-1,-1,yes,Large,Large,Short,Short,1,0,1,-1,NO soot pollution,no,no,1,1,1,0,-25,22,-44,80,1,15,1.6972935200000001,no,0,2.71691341,33,OK ,Not recommended ,OK 
+Scene 2192,MEDIUM,23,0,1.69729352,-1,-1,-1,-1,yes,Large,Large,Short,Short,1,0,1,-1,NO soot pollution,no,no,1,1,1,0,-25,22,-44,80,1,15,1.69729352,no,0,2.71691341,33,OK ,Not recommended ,OK 
 Scene 2193,LARGE,46,0,1.569115996,0,1,0,-1,yes,Large,Large,Short,Short,0,0,0,0,NO soot pollution,no,no,0,1,0,-1,-6,10,-35,87,28,19,1.569115996,no,0,3.584099526,232,OK ,OK ,OK 
 Scene 2194,MEDIUM,66,1,1.48727119,-1,-1,-1,0,yes,Large,Large,Short,Short,0,-1,1,-1,YES soot pollution,no,yes,1,1,0,1,-39,52,-27,96,8,11,1.48727119,yes,1,3.675919141,199,Unknown,Not recommended ,OK 
 Scene 2195,MEDIUM,57,1,0.20016475,0,1,-1,1,yes,Large,Large,Short,Short,0,-1,0,1,NO soot pollution,yes,no,0,1,0,0,-4,15,-8,55,17,9,0.20016475,no,1,4.2918875,363,Unknown,OK ,OK 
@@ -3025,7 +3025,7 @@ Scene 3023,SMALL,41,0,1.348675847,1,0,0,0,yes,Large,Large,Short,Short,-1,1,0,0,Y
 Scene 3024,MEDIUM,60,0,1.598747492,0,0,0,-1,yes,Large,Large,Short,Short,0,0,0,-1,YES soot pollution,no,no,0,0,0,-1,-50,90,-2,98,13,17,1.598747492,no,0,2.707505517,408,Go to next season ,Not recommended ,Consider 
 Scene 3025,MEDIUM,19,1,0.174573988,0,0,0,0,yes,Large,Large,Short,Short,0,-1,0,0,YES soot pollution,yes,yes,0,0,0,1,-36,80,-46,74,36,16,0.174573988,yes,1,1.712047877,122,OK ,OK ,OK 
 Scene 3026,LARGE,52,0,1.756331682,0,-1,0,0,yes,Large,Large,Short,Short,0,1,0,0,NO soot pollution,no,yes,0,-1,0,0,-45,90,-12,48,43,9,1.756331682,yes,0,3.460121696,144,OK ,OK ,OK 
-Scene 3027,MEDIUM,99,1,1.2148940559999999,1,0,-1,-1,no,Large,Large,Short,Short,-1,0,0,0,YES soot pollution,no,no,1,0,1,-1,-20,23,-33,82,47,8,1.2148940559999999,no,1,1.00414248,262,Unknown,Not recommended ,Consider 
+Scene 3027,MEDIUM,99,1,1.214894056,1,0,-1,-1,no,Large,Large,Short,Short,-1,0,0,0,YES soot pollution,no,no,1,0,1,-1,-20,23,-33,82,47,8,1.214894056,no,1,1.00414248,262,Unknown,Not recommended ,Consider 
 Scene 3028,MEDIUM,21,1,0.564570785,-1,0,0,0,yes,Large,Large,Short,Short,0,-1,1,1,YES soot pollution,no,no,1,1,-1,1,-35,63,-22,33,33,10,0.564570785,no,1,4.303996738,175,OK ,OK ,Consider 
 Scene 3029,MEDIUM,56,1,0.578266323,-1,0,0,1,no,Large,Large,Short,Short,-1,0,0,0,NO soot pollution,yes,no,1,0,0,0,-43,35,-42,96,34,14,0.578266323,no,1,3.276773064,146,Unknown,Not recommended ,OK 
 Scene 3030,MEDIUM,49,1,1.988071561,-1,0,1,0,yes,Large,Large,Short,Short,0,0,1,1,YES soot pollution,yes,yes,0,0,1,0,-20,10,-34,95,19,9,1.988071561,yes,1,4.317297487,108,OK ,OK ,OK 
