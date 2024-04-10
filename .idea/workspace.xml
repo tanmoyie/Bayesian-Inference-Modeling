@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b269082c-da0f-4fbe-b466-253493cdf517" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BIMReTA_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIMReTA_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,8 @@
       <workItem from="1712518046302" duration="3807000" />
       <workItem from="1712522328875" duration="9893000" />
       <workItem from="1712534317967" duration="6934000" />
-      <workItem from="1712551480887" duration="3308000" />
+      <workItem from="1712551480887" duration="4007000" />
+      <workItem from="1712724824561" duration="84000" />
     </task>
     <servers />
   </component>
