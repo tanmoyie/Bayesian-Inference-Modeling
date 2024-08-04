@@ -1,6 +1,6 @@
 # Bayesian Inference Modeling to Rank Cleanup System in Arctic oil spill
 
-## Summary
+# Summary
 **Situation**: 
 Selecting the correct response technology for emergency oil spill response is difficult. This work will rank response technologies (from MCR, CDU, & ISB) considering Arctic environement.  
 
@@ -19,7 +19,7 @@ Selecting the correct response technology for emergency oil spill response is di
 Based on oil and environmental conditions in Arctic, our model proposes which technology would be better to respond oil spill. The model has 0.79, 0.93 and 0.93 ROC-AUC score for different technologies.
 
 
-### Directory
+# Directory
     BIM
     ├── requirement.txt         Dependencies
     ├── README.md               Project README
@@ -42,5 +42,9 @@ Based on oil and environmental conditions in Arctic, our model proposes which te
 
 The picture below is an overview of the **project's methodology**. Further details can be found in [this journal paper](https://doi.org/10.1016/j.marpolbul.2022.114203).
 ![image](https://user-images.githubusercontent.com/19787712/220946219-a9e7b486-3a50-491f-8182-92630f2b04d9.png)
+
+# How to cite
+Tanmoy Das, Floris Goerlandt (2022). Bayesian inference modeling to rank response technologies in arctic marine oil spills. Marine Pollution Bulletin, 185, 114203. https://doi.org/10.1016/j.marpolbul.2022.114203
+
 
 
