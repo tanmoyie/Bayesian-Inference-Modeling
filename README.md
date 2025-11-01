@@ -2,7 +2,7 @@
 
 # Summary
 **Situation**: 
-Selecting the correct response technology for emergency oil spill response is difficult. This work will rank response technologies (from MCR, CDU, & ISB) considering Arctic environement.  
+Selecting the correct response technology for emergency oil spill response is difficult. This work will rank response technologies (from MCR, CDU, & ISB) considering Arctic environment.  
 
 
 **Task**:
